@@ -9,4 +9,4 @@ Integrantes:
   - Martinez Ivan
   - Palacio Rocio
 
-Nombre del proyecto segurido por: Carolina Martinez.
+Nombre del proyecto sugerido por: Carolina Martinez.
