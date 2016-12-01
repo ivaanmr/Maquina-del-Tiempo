@@ -450,7 +450,7 @@ public class CameraActivity extends Activity implements PictureCallback, Surface
 
                 // rotamos imagen (probar)
                 Matrix rotateMatrix = new Matrix();
-                rotateMatrix.postRotate(rotation);
+                rotateMatrix.postRotate(90);
                 rotatedBitmap = Bitmap.createBitmap(loadedImage, 0, 0,
                         loadedImage.getWidth(), loadedImage.getHeight(),
                         rotateMatrix, false);
